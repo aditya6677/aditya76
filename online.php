@@ -110,7 +110,7 @@
                       <table>
                           <tr>
                               <td class="font-weight-m">Website</td>
-                              <td class="text-right"><a href="http://www.codeforces.com/profile/aditya76" target="_blank">Codeforces</a></td>
+                              <td class="text-right"><a href="https://www.codechef.com/users/aditya76" target="_blank">Codechef</a></td>
                           </tr>
                           <tr>
                               <td class="font-weight-m">Name</td>
@@ -122,34 +122,14 @@
                           </tr>
                           <tr>
                               <td class="font-weight-m">Max Rating</td>
-                              <td class="text-right">1382</td>
+                              <td class="text-right">1807</td>
                           </tr>
                       </table>
                   </div>
               </div>
+
               <p>&nbsp</p>
-              <div class="col-xs-12 col-sm-12 col-lg-6">
-                  <div class="block-grey">
-                      <table>
-                          <tr>
-                              <td class="font-weight-m">Website</td>
-                              <td class="text-right"><a href="https://www.codechef.com/users/aditya77" target="_blank">Codechef</a></td>
-                          </tr>
-                          <tr>
-                              <td class="font-weight-m">Name</td>
-                              <td class="text-right">Aditya Kumar</td>
-                          </tr>
-                          <tr>
-                              <td class="font-weight-m">Username</td>
-                              <td class="text-right">@aditya77</td>
-                          </tr>
-                          <tr>
-                              <td class="font-weight-m">Max Rating</td>
-                              <td class="text-right">1455</td>
-                          </tr>
-                      </table>
-                  </div>
-              </div>
+              
               <div class="col-xs-12 col-sm-12 col-lg-6">
                   <div class="block-grey">
                       <table>
@@ -172,6 +152,30 @@
                       </table>
                   </div>
               </div>
+
+              <div class="col-xs-12 col-sm-12 col-lg-6">
+                  <div class="block-grey">
+                      <table>
+                          <tr>
+                              <td class="font-weight-m">Website</td>
+                              <td class="text-right"><a href="http://www.codeforces.com/profile/aditya76" target="_blank">Codeforces</a></td>
+                          </tr>
+                          <tr>
+                              <td class="font-weight-m">Name</td>
+                              <td class="text-right">Aditya Kumar</td>
+                          </tr>
+                          <tr>
+                              <td class="font-weight-m">Username</td>
+                              <td class="text-right">@aditya76</td>
+                          </tr>
+                          <tr>
+                              <td class="font-weight-m">Max Rating</td>
+                              <td class="text-right">1382</td>
+                          </tr>
+                      </table>
+                  </div>
+              </div>
+
               <p>&nbsp</p>
               <div class="col-xs-12 col-sm-12 col-lg-6">
                   <div class="block-grey">
@@ -190,7 +194,7 @@
                           </tr>
                           <tr>
                               <td class="font-weight-m">Max Rating</td>
-                              <td class="text-right">1436</td>
+                              <td class="text-right">1524</td>
                           </tr>
                       </table>
                   </div>

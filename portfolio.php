@@ -22,7 +22,11 @@
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
     <script src="data.js" type="text/javascript"></script>
     <link href='https://fonts.googleapis.com/css?family=Raleway:400,100,100italic,200,200italic,300,300italic,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic' rel='stylesheet' type='text/css'>
-
+    <style>
+        .rev{
+            float: right;
+        }
+    </style>
 </head>
 <body ng-app="myApp" ng-controller="myCtrl" style="background-color:#262626;">
 <div class="animationload">
@@ -60,14 +64,14 @@
                         </div>
 
                         <div id="portfolio-grid">
-
+                        <!-- Instacode Online Judge -->
                             <div class="mix col-xs-12 col-sm-6 col-lg-4 portfolio-item category-1">
                                 <div class="within">
 
                                     <img src="assets/img/portfolio/p1.png" alt="Alt">
                                     <div class="port-item-cont">
                                         <h3 class="title">Instacode Online Judge</h3>
-                                        <a href="http://instacode.xyz" class="popup-content view-work hover-animate">View details</a>
+                                        <a class="popup-content view-work hover-animate">View details</a>
                                     </div>
 
                                     <div class="hidden">
@@ -88,7 +92,8 @@
                                                         </tr>
                                                     </table>
                                                     <p>{{instainfo}}</p>
-                                                    <a href="http://www.instacode.xyz" class="btn btn-color">See Live</a>
+                                                    <a href="https://github.com/aditya6677/Argus/blob/master/judge.py" class="btn btn-color">See Code</a>
+                                                    <a href="http://www.instacode.xyz" class="rev btn btn-color">See Live</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -96,13 +101,168 @@
 
                                 </div>
                             </div>
+
+                            <!-- FaceMAsh -->
+                            <div class="mix col-xs-12 col-sm-6 col-lg-4 portfolio-item category-1">
+                                <div class="within">
+
+                                    <img src="assets/img/portfolio/p6.jpg" alt="Alt">
+                                    <div class="port-item-cont">
+                                        <h3 class="title">FaceMash</h3>
+                                        <a class="popup-content view-work hover-animate">View details</a>
+                                    </div>
+
+                                    <div class="hidden">
+                                        <div class="podrt-desc">
+                                            <div class="modal-box-content">
+                                                <img src="assets/img/portfolio/p_b6.jpg" alt="Alt">
+                                                <button class="mfp-close"></button>
+                                                <div class="text">
+                                                    <h3 class="title">FaceMash</h3>
+                                                    <table>
+                                                        <tr>
+                                                            <td class="font-weight-m width-td">Completed</td>
+                                                            <td>Nov 2017 - Dec 2017</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="font-weight-m">Technology</td>
+                                                            <td>NodeJS, ExpressJS, MongoDB, HandlbBarJS, Bootstrap, CSS</td>
+                                                        </tr>
+                                                    </table>
+                                                    <p>{{faceinfo}}</p>
+                                                    <a href="https://github.com/aditya6677/Facemash" class="btn btn-color">See Code</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+
+                            <!-- WA Stalker -->
+                            <div class="mix col-xs-12 col-sm-6 col-lg-4 portfolio-item category-1">
+                                <div class="within">
+
+                                    <img src="assets/img/portfolio/p7.jpg" alt="Alt">
+                                    <div class="port-item-cont">
+                                        <h3 class="title">WA Stalker</h3>
+                                        <a class="popup-content view-work hover-animate">View details</a>
+                                    </div>
+
+                                    <div class="hidden">
+                                        <div class="podrt-desc">
+                                            <div class="modal-box-content">
+                                                <img src="assets/img/portfolio/p7_b.jpg" alt="Alt">
+                                                <button class="mfp-close"></button>
+                                                <div class="text">
+                                                    <h3 class="title">WA Stalker</h3>
+                                                    <table>
+                                                        <tr>
+                                                            <td class="font-weight-m width-td">Completed</td>
+                                                            <td>Dec 2017 - Jan 2018</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="font-weight-m">Technology</td>
+                                                            <td>NodeJS, ExpressJS, MongoDB, TypeScript, AngularJS, Bootstrap, CSS</td>
+                                                        </tr>
+                                                    </table>
+                                                    <p>{{wainfo}}</p>
+                                                    <a href="https://github.com/aditya6677/WA-Stocking" class="btn btn-color">See Code</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+
+                            <!-- React Calendar -->
+                            <div class="mix col-xs-12 col-sm-6 col-lg-4 portfolio-item category-1">
+                                <div class="within">
+
+                                    <img src="assets/img/portfolio/p9.jpg" alt="Alt">
+                                    <div class="port-item-cont">
+                                        <h3 class="title">React Calendar</h3>
+                                        <a class="popup-content view-work hover-animate">View details</a>
+                                    </div>
+
+                                    <div class="hidden">
+                                        <div class="podrt-desc">
+                                            <div class="modal-box-content">
+                                                <img src="assets/img/portfolio/p9_b.jpg" alt="Alt">
+                                                <button class="mfp-close"></button>
+                                                <div class="text">
+                                                    <h3 class="title">React Calendar</h3>
+                                                    <table>
+                                                        <tr>
+                                                            <td class="font-weight-m width-td">Completed</td>
+                                                            <td>Feb 2018 - Feb 2018</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="font-weight-m">Technology</td>
+                                                            <td>NodeJS, ExpressJS, ReactJS, Bootstrap, CSS</td>
+                                                        </tr>
+                                                    </table>
+                                                    <p>{{catinfo}}</p>                                                  
+                                                    <a href="https://github.com/aditya6677/react-redux-cal" class="btn btn-color">See Code</a>
+                                                    <a href="http://letscode.live" class="rev btn btn-color">See Live</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+
+                            <!-- Rating Graph -->
+                            <div class="mix col-xs-12 col-sm-6 col-lg-4 portfolio-item category-1">
+                                <div class="within">
+
+                                    <img src="assets/img/portfolio/p8.jpg" alt="Alt">
+                                    <div class="port-item-cont">
+                                        <h3 class="title">Rating Graph</h3>
+                                        <a class="popup-content view-work hover-animate">View details</a>
+                                    </div>
+
+                                    <div class="hidden">
+                                        <div class="podrt-desc">
+                                            <div class="modal-box-content">
+                                                <img src="assets/img/portfolio/p_b8.jpg" alt="Alt">
+                                                <button class="mfp-close"></button>
+                                                <div class="text">
+                                                    <h3 class="title">Rating Graph</h3>
+                                                    <table>
+                                                        <tr>
+                                                            <td class="font-weight-m width-td">Completed</td>
+                                                            <td>Oct 2017 - Oct 2017</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="font-weight-m">Technology</td>
+                                                            <td>NodeJS, ExpressJS, ChartJS, Bootstrap, CSS</td>
+                                                        </tr>
+                                                    </table>
+                                                    <p>{{ratinfo}}</p>
+                                                    <a href="https://github.com/aditya6677/Rating_Graph" class="btn btn-color">See Code</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+
+                            <!-- InstaNotes -->
                             <div class="mix col-xs-12 col-sm-6 col-lg-4 portfolio-item category-1">
                                 <div class="within">
 
                                     <img src="assets/img/portfolio/p2.png" alt="Alt">
                                     <div class="port-item-cont">
                                         <h3 class="title">Instanotes</h3>
-                                        <a href="http://instanotes.xyz" class="popup-content view-work hover-animate">View details</a>
+                                        <a class="popup-content view-work hover-animate">View details</a>
                                     </div>
 
                                     <div class="hidden">
@@ -123,7 +283,8 @@
                                                         </tr>
                                                     </table>
                                                     <p>{{notesinfo}}</p>
-                                                    <a href="http://instanotes.xyz" class="btn btn-color">See Live</a>
+                                                    <a href="https://github.com/aditya6677/instanotes" class="btn btn-color">See Code</a>
+                                                    <a href="http://instanotes.xyz" class="rev btn btn-color">See Live</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -131,13 +292,15 @@
 
                                 </div>
                             </div>
+
+                            <!-- Tech Aditya -->
                             <div class="mix col-xs-12 col-sm-6 col-lg-4 portfolio-item category-1">
                                 <div class="within">
 
                                     <img src="assets/img/portfolio/p3.png" alt="Alt">
                                     <div class="port-item-cont">
                                         <h3 class="title">Tech Aditya</h3>
-                                        <a href="portfolio#" class="popup-content view-work hover-animate">View details</a>
+                                        <a class="popup-content view-work hover-animate">View details</a>
                                     </div>
 
                                     <div class="hidden">
@@ -167,49 +330,14 @@
                                 </div>
                             </div>
 
-                            <div class="mix col-xs-12 col-sm-6 col-lg-4 portfolio-item category-2">
-                                <div class="within">
-
-                                    <img src="assets/img/portfolio/p_app.jpg" alt="Alt">
-                                    <div class="port-item-cont">
-                                        <h3 class="title">Tech Aditya App</h3>
-                                        <a href="portfolio#" class="popup-content view-work hover-animate">View details</a>
-                                    </div>
-
-                                    <div class="hidden">
-                                        <div class="podrt-desc">
-                                            <div class="modal-box-content">
-                                                <img src="assets/img/portfolio/p_b3.png" alt="Alt">
-                                                <button class="mfp-close"></button>
-                                                <div class="text">
-                                                    <h3 class="title">Tech Aditya App</h3>
-                                                    <table>
-                                                        <tr>
-                                                            <td class="font-weight-m width-td">Completed</td>
-                                                            <td>June 2015</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td class="font-weight-m">Technology</td>
-                                                            <td>Java + XML</td>
-                                                        </tr>
-                                                    </table>
-                                                    <p>{{techinfo}}</p>
-                                                    <a href="https://www.dropbox.com/s/sx267krn00yj432/Tech%20Aditya.apk?dl=0" class="btn btn-color">See Live</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-
+                            <!-- Chatting Over Lan -->
                             <div class="mix col-xs-12 col-sm-6 col-lg-4 portfolio-item category-2">
                                 <div class="within">
 
                                     <img src="assets/img/portfolio/p4.png" alt="Alt">
                                     <div class="port-item-cont">
                                         <h3 class="title">Chatting Over LAN</h3>
-                                        <a href="portfolio#" class="popup-content view-work hover-animate">View details</a>
+                                        <a class="popup-content view-work hover-animate">View details</a>
                                     </div>
 
                                     <div class="hidden">
@@ -239,14 +367,14 @@
                                 </div>
                             </div>
 
-
+                            <!-- Custom Rom -->
                             <div class="mix col-xs-12 col-sm-6 col-lg-4 portfolio-item category-2">
                                 <div class="within">
 
                                     <img src="assets/img/portfolio/p5.jpg" alt="Alt">
                                     <div class="port-item-cont">
                                         <h3 class="title">Custom Rom</h3>
-                                        <a href="portfolio#" class="popup-content view-work hover-animate">View details</a>
+                                        <a class="popup-content view-work hover-animate">View details</a>
                                     </div>
 
                                     <div class="hidden">
@@ -268,6 +396,43 @@
                                                     </table>
                                                     <p>Developing Custom Rom Based On Android Open Source Project, they are enriched with more functions and the appropriate drivers</p>
                                                     <a href="https://www.github.com/aditya6677" class="btn btn-color">See Live</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <!-- Tech Aditya App -->
+                            <div class="mix col-xs-12 col-sm-6 col-lg-4 portfolio-item category-2">
+                                <div class="within">
+
+                                    <img src="assets/img/portfolio/p_app.jpg" alt="Alt">
+                                    <div class="port-item-cont">
+                                        <h3 class="title">Tech Aditya App</h3>
+                                        <a class="popup-content view-work hover-animate">View details</a>
+                                    </div>
+
+                                    <div class="hidden">
+                                        <div class="podrt-desc">
+                                            <div class="modal-box-content">
+                                                <img src="assets/img/portfolio/p_b3.png" alt="Alt">
+                                                <button class="mfp-close"></button>
+                                                <div class="text">
+                                                    <h3 class="title">Tech Aditya App</h3>
+                                                    <table>
+                                                        <tr>
+                                                            <td class="font-weight-m width-td">Completed</td>
+                                                            <td>June 2015</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="font-weight-m">Technology</td>
+                                                            <td>Java + XML</td>
+                                                        </tr>
+                                                    </table>
+                                                    <p>{{techinfo}}</p>
+                                                    <a href="https://www.dropbox.com/s/sx267krn00yj432/Tech%20Aditya.apk?dl=0" class="btn btn-color">See Live</a>
                                                 </div>
                                             </div>
                                         </div>

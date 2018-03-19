@@ -51,7 +51,7 @@
                     <p>{{info}}</p>
                     <p>{{ninfo}}</p>
                     <p>
-                        <a href="http://iamsandeep.info/data/resume.pdf" class="btn btn-color hover-animate">Download CV</a>
+                        <a href="http://aditya76.info/data/resume.pdf" class="btn btn-color hover-animate">Download CV</a>
                         <a href="online" class="btn btn-color hover-animate">Online Profiles</a>
                     </p>
 
@@ -105,7 +105,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                   <center>
                     <div class="circle-block ">
-                        <span class="icon hover-animate"><i class="fa fa-desktop"></i></span>
+                        <a href="portfolio"><span class="icon hover-animate"><i class="fa fa-desktop"></i></span></a>
                         <span class="name hover-animate"><a href="portfolio">Web Development</a></span>
                     </div>
                   </center>
@@ -113,7 +113,7 @@
                   <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                     <center>
                     <div class="circle-block">
-                        <span class="icon hover-animate"><i class="fa fa-code"></i></span>
+                        <a href="online"><span class="icon hover-animate"><i class="fa fa-code"></i></span></a>
                         <span class="name hover-animate"><a href="online">Competitive Programming</a></span>
                     </div>
                   </center>
@@ -121,7 +121,7 @@
                   <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                     <center>
                     <div class="circle-block">
-                        <span class="icon hover-animate"><i class="fa fa-android"></i></span>
+                        <a href="portfolio"><span class="icon hover-animate"><i class="fa fa-android"></i></span></a>
                         <span class="name hover-animate"><a href="portfolio">Application</a></span>
                     </div>
                   </center>

@@ -160,8 +160,8 @@
 
                     <label class="progress-bar-label">Java</label>
                     <div class="progress">
-                        <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
-                            <span>80%</span>
+                        <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+                            <span>90%</span>
                         </div>
                     </div>
 
@@ -174,8 +174,8 @@
 
                     <label class="progress-bar-label">JavaScript+Frameworks</label>
                     <div class="progress">
-                        <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
-                            <span>70%</span>
+                        <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+                            <span>90%</span>
                         </div>
                     </div>
 
@@ -200,8 +200,8 @@
 
                   <label class="progress-bar-label">MEAN Stack</label>
                   <div class="progress">
-                      <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
-                          <span>70%</span>
+                      <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
+                          <span>85%</span>
                       </div>
                   </div>
 
@@ -214,8 +214,8 @@
 
                   <label class="progress-bar-label">HTML &amp; CSS</label>
                   <div class="progress">
-                      <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
-                          <span>85%</span>
+                      <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+                          <span>90%</span>
                       </div>
                   </div>
 
@@ -245,6 +245,7 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-lg-6">
                   <label class="progress-bar-label">-Gold Medal On HackerRank</label><br>
+                  <label class="progress-bar-label">-Campus Ambassador for GeeksForGeeks</label><br>
                   <label class="progress-bar-label">-Contributed To Open Source</label><br>
                   <label class="progress-bar-label">-Leader Of Programming Club in My College (InstaCode)</label><br>
                   <label class="progress-bar-label">-Held Various College Contest On My Own Website</label>
@@ -253,6 +254,7 @@
                 <div class="col-xs-12 col-sm-12 col-lg-6">
                   <label class="progress-bar-label">-Qualified For ACM-ICPC 2017 India Regional</label><br>
                   <label class="progress-bar-label">-Qualified For Google CodeJam 2017</label><br>
+                  <label class="progress-bar-label">-Qualified for Codechef Snackdown 2017</label><br>
                   <label class="progress-bar-label">-Registerd Company On Indiamart</label><br>
                   <label class="progress-bar-label">-Have 3 Revenue Websites</label>
 
@@ -278,7 +280,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                   <center>
                     <div class="circle-block ">
-                        <span class="icon hover-animate"><i class="fa fa-desktop"></i></span>
+                        <a href="portfolio"><span class="icon hover-animate"><i class="fa fa-desktop"></i></span></a>
                         <span class="name hover-animate"><a href="portfolio"><b>Web Development</b></a></span>
                     </div>
                   </center>
@@ -286,7 +288,7 @@
                   <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                     <center>
                     <div class="circle-block">
-                        <span class="icon hover-animate"><i class="fa fa-code"></i></span>
+                        <a href="online"><span class="icon hover-animate"><i class="fa fa-code"></i></span></a>
                         <span class="name hover-animate"><a href="online"><b>Competitive Programming</b></a></span>
                     </div>
                   </center>
@@ -294,7 +296,7 @@
                   <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                     <center>
                     <div class="circle-block">
-                        <span class="icon hover-animate"><i class="fa fa-android"></i></span>
+                        <a href="portfolio"><span class="icon hover-animate"><i class="fa fa-android"></i></span></a>
                         <span class="name hover-animate"><a href="portfolio"><b>Application</b></a></span>
                     </div>
                   </center>
