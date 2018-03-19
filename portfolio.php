@@ -358,7 +358,7 @@
                                                         </tr>
                                                     </table>
                                                     <p>Chatting application where multiple ip's can over same Local Area Network</p>
-                                                    <a href="https://www.github.com/aditya6677" class="btn btn-color">See Live</a>
+                                                    <a href="https://www.github.com/aditya6677" class="btn btn-color">See Code</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -395,7 +395,7 @@
                                                         </tr>
                                                     </table>
                                                     <p>Developing Custom Rom Based On Android Open Source Project, they are enriched with more functions and the appropriate drivers</p>
-                                                    <a href="https://www.github.com/aditya6677" class="btn btn-color">See Live</a>
+                                                    <a href="https://www.github.com/aditya6677" class="btn btn-color">See Code</a>
                                                 </div>
                                             </div>
                                         </div>
